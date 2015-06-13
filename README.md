@@ -5,7 +5,8 @@ It is inspired by docker search and puppet search, we can use kubectl search com
 
 # This project is still under development. (started in HACKATHON TAIWAN 6/13-6/14 2015) https://hackathon.tw/index.html
 
-# The commands will look like these, as follow;
+## The commands will look like these, as follow;
+# Examples
 ```
 $ kubectl search redis
 NAME                             DESCRIPTION                                     STARS      OFFICIAL    TRUSTED
