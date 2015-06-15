@@ -3,7 +3,9 @@ kubectl sub-command search for searching kubernetes resurces definitions from re
 <p/>
 It is inspired by docker search and puppet search, we can use kubectl search command (a new command) to find available micro-services packages on a shared repository or simply from github.
 
-# This project is still under development. (started in HACKATHON TAIWAN 6/13-6/14 2015) https://hackathon.tw/index.html
+# This project is still under development. 
+(started in HACKATHON TAIWAN 6/13-6/14 2015) https://hackathon.tw/index.html
+still on going, I need architect design for this project.
 
 ## The commands will look like these, as follow;
 # Examples
