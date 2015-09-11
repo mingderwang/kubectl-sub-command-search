@@ -6,6 +6,7 @@ It is inspired by docker search and puppet search, we can use kubectl search com
 # This project is still under development. 
 (started in HACKATHON TAIWAN 6/13-6/14 2015) https://hackathon.tw/index.html
 still on going, I need architect design for this project.
+(will implement on Docker Hack Day 9/16-9/21 2015) https://blog.docker.com/2015/07/announcing-docker-global-hack-day-3/
 
 ## The commands will look like these, as follow;
 # Examples
